@@ -1,0 +1,23 @@
+{
+  "name": "gulp-ywo-ftps",
+  "version": "0.0.0",
+  "description": "a gulp ftp tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ywo/gulp-ywo-ftps.git"
+  },
+  "author": "char1ee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywo/gulp-ywo-ftps/issues"
+  },
+  "homepage": "https://github.com/ywo/gulp-ywo-ftps",
+  "devDependencies": {
+    "lodash": "^3.8.0",
+    "ywo-ftps": "file:ywo-ftps"
+  }
+}
